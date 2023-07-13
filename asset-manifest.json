@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jenna-portfolio/static/css/main.a9a0822e.css",
+    "main.js": "/jenna-portfolio/static/js/main.db2fff79.js",
+    "static/js/787.3f9aaebe.chunk.js": "/jenna-portfolio/static/js/787.3f9aaebe.chunk.js",
+    "static/media/hero.png": "/jenna-portfolio/static/media/hero.935387f5ca3b960f4ff9.png",
+    "static/media/heroAfter.png": "/jenna-portfolio/static/media/heroAfter.00ab0d2c4389e8675fcd.png",
+    "static/media/venus.png": "/jenna-portfolio/static/media/venus.bd3a8c8c88a069c1a8ae.png",
+    "static/media/starbuckboard2.png": "/jenna-portfolio/static/media/starbuckboard2.10a0cff5e12761ad8e14.png",
+    "static/media/WSIW.png": "/jenna-portfolio/static/media/WSIW.a7d44083e0318e3c4e5d.png",
+    "static/media/IMG_6397.JPG": "/jenna-portfolio/static/media/IMG_6397.7cb20b6639b3ad4b8868.JPG",
+    "static/media/starbuckboard1.png": "/jenna-portfolio/static/media/starbuckboard1.19fc296a5402c18a2597.png",
+    "static/media/Starbucks.svg": "/jenna-portfolio/static/media/Starbucks.6e8d92115edf94254f4d4b0d0606074f.svg",
+    "static/media/Photoshop.svg": "/jenna-portfolio/static/media/Photoshop.227413cc478a02a468af37385cf30073.svg",
+    "static/media/AdobeXD.svg": "/jenna-portfolio/static/media/AdobeXD.1f5f2d4a177da5ebb8c3c02f2f79e86d.svg",
+    "static/media/Figma.svg": "/jenna-portfolio/static/media/Figma.cd24339e133b63cbe2834fcf5b5be2ba.svg",
+    "index.html": "/jenna-portfolio/index.html",
+    "main.a9a0822e.css.map": "/jenna-portfolio/static/css/main.a9a0822e.css.map",
+    "main.db2fff79.js.map": "/jenna-portfolio/static/js/main.db2fff79.js.map",
+    "787.3f9aaebe.chunk.js.map": "/jenna-portfolio/static/js/787.3f9aaebe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9a0822e.css",
+    "static/js/main.db2fff79.js"
+  ]
+}
