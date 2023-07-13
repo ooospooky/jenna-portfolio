@@ -1,6 +1,7 @@
 {
   "name": "jenna-portfolio",
   "version": "0.1.0",
+  "homepage": "https://ooospooky.github.io/jenna-portfolio",
   "private": true,
   "dependencies": {
     "@lottiefiles/react-lottie-player": "^3.5.3",
