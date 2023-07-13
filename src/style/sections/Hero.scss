@@ -10,6 +10,19 @@
     background-color: #E9E9E9;
     ;
 
+    &__link {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      &:hover {
+         img{
+          fill: white;
+          filter: brightness(0) invert(1);
+         }
+      }
+    }
+
     &__content {}
 
     &__img {
@@ -56,10 +69,11 @@
       width: 637px;
       height: 774px;
       background-image: url('../../image/hero.png');
-      background-size:cover;
-      &:hover{
+      background-size: cover;
+
+      &:hover {
         background-image: url('../../image/heroAfter.png');
-      background-size:cover;
+        background-size: cover;
       }
     }
   }
