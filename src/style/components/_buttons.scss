@@ -17,25 +17,23 @@
     left: 0;
     bottom: 0;
     z-index: -1;
-    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.3s;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.4s;
   }
 }
 
 /* Hero Style */
 .cta-btn--hero {
-  background-image: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
+  background-image: linear-gradient(135deg, #163750 0%, #163750 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  border-width: 2px;
-  border-style: solid;
-  border-image: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
+  border: 5px solid #173751;
   border-image-slice: 1;
   cursor: pointer;
   color: $primary-color;
 
 
   &::after {
-    background-image: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
+    background-image: linear-gradient(135deg, #163750 0%, #163750 100%);
 
   }
 

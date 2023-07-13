@@ -1,0 +1,65 @@
+  .hero {
+    padding: 0 5rem;
+    display: flex;
+    // flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    height: 100vh;
+    min-height: 100vh;
+    background-color: #E9E9E9;
+    ;
+
+    &__content {}
+
+    &__img {
+      width: 50%;
+    }
+
+    &__p {
+      margin: 0;
+      font-size: 7rem;
+    }
+
+    &__cta {
+
+      display: flex;
+      gap: 1rem;
+    }
+
+    &__imgContainer {
+      align-self: flex-end;
+
+      // &:hover::after {
+      //   content: '';
+      //   background-image: url(../../image/heroAfter.png);
+      //   /* 替换为要显示的悬停图像的路径 */
+      //   background-size: 637px 774px;
+      //   opacity: 1;
+      // }
+
+      // &::after {
+      //   content: '';
+      //   position: absolute;
+      //   top: 0;
+      //   left: 0;
+      //   width: 100%;
+      //   height: 100%;
+      //   opacity: 0;
+      //   transition: opacity 0.3s ease;
+      // }
+    }
+
+    &__img {
+      display: block;
+      margin: 0 auto;
+      width: 637px;
+      height: 774px;
+      background-image: url('../../image/hero.png');
+      background-size:cover;
+      &:hover{
+        background-image: url('../../image/heroAfter.png');
+      background-size:cover;
+      }
+    }
+  }

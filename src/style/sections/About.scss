@@ -1,0 +1,31 @@
+.about {
+  width: 100%;
+  height: 234px;
+  background-color: #4D4D4D;
+  
+  color: #fff;
+
+  &__container {
+    padding: 64px 100px;
+    display: flex;
+    align-items: center;
+    gap:5rem;
+  }
+
+  &__h2 {
+    width: 35%;
+    margin:0;
+    color: #FFF;
+    text-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.50);
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  &__p {
+    width: 65%;
+    text-align: left;
+  }
+
+}
