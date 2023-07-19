@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jenna-portfolio/static/css/main.78568f9b.css",
-    "main.js": "/jenna-portfolio/static/js/main.850e9f78.js",
+    "main.css": "/jenna-portfolio/static/css/main.a8c11c1a.css",
+    "main.js": "/jenna-portfolio/static/js/main.8e43c80f.js",
     "static/js/787.3f9aaebe.chunk.js": "/jenna-portfolio/static/js/787.3f9aaebe.chunk.js",
     "static/media/hero.png": "/jenna-portfolio/static/media/hero.935387f5ca3b960f4ff9.png",
     "static/media/heroAfter.png": "/jenna-portfolio/static/media/heroAfter.00ab0d2c4389e8675fcd.png",
@@ -17,12 +17,12 @@
     "static/media/mdi_tools.svg": "/jenna-portfolio/static/media/mdi_tools.d7d14fa5c5799279a8aaed7c0f8c844e.svg",
     "index.html": "/jenna-portfolio/index.html",
     "static/media/mdi_file.svg": "/jenna-portfolio/static/media/mdi_file.d960528e9525496bf19108c2215f9414.svg",
-    "main.78568f9b.css.map": "/jenna-portfolio/static/css/main.78568f9b.css.map",
-    "main.850e9f78.js.map": "/jenna-portfolio/static/js/main.850e9f78.js.map",
+    "main.a8c11c1a.css.map": "/jenna-portfolio/static/css/main.a8c11c1a.css.map",
+    "main.8e43c80f.js.map": "/jenna-portfolio/static/js/main.8e43c80f.js.map",
     "787.3f9aaebe.chunk.js.map": "/jenna-portfolio/static/js/787.3f9aaebe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78568f9b.css",
-    "static/js/main.850e9f78.js"
+    "static/css/main.a8c11c1a.css",
+    "static/js/main.8e43c80f.js"
   ]
 }
