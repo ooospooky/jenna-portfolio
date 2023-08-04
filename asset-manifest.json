@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/jenna-portfolio/static/css/main.a8c11c1a.css",
-    "main.js": "/jenna-portfolio/static/js/main.8e43c80f.js",
+    "main.css": "/jenna-portfolio/static/css/main.ce1fbdb8.css",
+    "main.js": "/jenna-portfolio/static/js/main.d60a255c.js",
     "static/js/787.3f9aaebe.chunk.js": "/jenna-portfolio/static/js/787.3f9aaebe.chunk.js",
     "static/media/hero.png": "/jenna-portfolio/static/media/hero.935387f5ca3b960f4ff9.png",
     "static/media/heroAfter.png": "/jenna-portfolio/static/media/heroAfter.00ab0d2c4389e8675fcd.png",
     "static/media/venus.png": "/jenna-portfolio/static/media/venus.bd3a8c8c88a069c1a8ae.png",
     "static/media/starbuckboard2.png": "/jenna-portfolio/static/media/starbuckboard2.10a0cff5e12761ad8e14.png",
+    "static/media/Dribbble.png": "/jenna-portfolio/static/media/Dribbble.e3d1b6caaa497fa8c041.png",
     "static/media/WSIW.png": "/jenna-portfolio/static/media/WSIW.a7d44083e0318e3c4e5d.png",
     "static/media/IMG_6397.JPG": "/jenna-portfolio/static/media/IMG_6397.7cb20b6639b3ad4b8868.JPG",
     "static/media/starbuckboard1.png": "/jenna-portfolio/static/media/starbuckboard1.19fc296a5402c18a2597.png",
@@ -17,12 +18,12 @@
     "static/media/mdi_tools.svg": "/jenna-portfolio/static/media/mdi_tools.d7d14fa5c5799279a8aaed7c0f8c844e.svg",
     "index.html": "/jenna-portfolio/index.html",
     "static/media/mdi_file.svg": "/jenna-portfolio/static/media/mdi_file.d960528e9525496bf19108c2215f9414.svg",
-    "main.a8c11c1a.css.map": "/jenna-portfolio/static/css/main.a8c11c1a.css.map",
-    "main.8e43c80f.js.map": "/jenna-portfolio/static/js/main.8e43c80f.js.map",
+    "main.ce1fbdb8.css.map": "/jenna-portfolio/static/css/main.ce1fbdb8.css.map",
+    "main.d60a255c.js.map": "/jenna-portfolio/static/js/main.d60a255c.js.map",
     "787.3f9aaebe.chunk.js.map": "/jenna-portfolio/static/js/787.3f9aaebe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8c11c1a.css",
-    "static/js/main.8e43c80f.js"
+    "static/css/main.ce1fbdb8.css",
+    "static/js/main.d60a255c.js"
   ]
 }
